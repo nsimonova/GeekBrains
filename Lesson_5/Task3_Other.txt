@@ -1,0 +1,10 @@
+Ivanov 18000
+Petrov 45000
+Sidorov 63000
+Kozlov 51000
+Bobrov 35000
+Zaitsev 27000
+Petukhov 75000
+Kotov 17900
+Korovin 15000
+Krotov 42000
