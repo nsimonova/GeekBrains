@@ -14,12 +14,11 @@ class TrafficLight:
     def running(self):
         print('Запуск')
         for color in cycle(self.__colors):
-            print(self.__colors[0])
-            sleep(7)
-            print(self.__colors[1])
-            sleep(2)
-            print(self.__colors[2])
-            sleep(7)
+            print(color)
+            if color == 'yellow':
+                sleep(2)
+            else:
+                sleep(7)
 
 
 traffic_light = TrafficLight()
